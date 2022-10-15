@@ -14,7 +14,7 @@ An app that tracks sustainability activites performed by students on campus and 
 </br>
 
 ## Goal
-
+The goal is to both contribution to the environment by a set of environmental
 
 </br>
 
